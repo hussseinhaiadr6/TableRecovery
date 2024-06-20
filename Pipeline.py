@@ -41,7 +41,7 @@ tables_detected_path = "./Tables_Detected"
 Utils.flatten_and_rename(tables_detected_path)
 
 
-Dirs=Utils.get_all_dirs_paths("C:/Users/HHR6/PycharmProjects/Task1/Tables_Detected")
+Dirs=Utils.get_all_dirs_paths("./Tables_Detected")
 for dir in Dirs:
         process_directory(dir)
 

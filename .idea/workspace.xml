@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8a8f7c1-635b-498e-8dac-585c224212f4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PaddleOCR" beforeDir="false" afterPath="$PROJECT_DIR$/PaddleOCR" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PaddleOCR/applications/PCB字符识别/PCB字符识别.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PaddleOCR/applications/PCB字符识别/gen_data/background/bg.jpg" beforeDir="false" />
@@ -464,7 +465,7 @@
       <change beforePath="$PROJECT_DIR$/PaddleOCR/doc/pr.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PaddleOCR/doc/precommit_pass.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PaddleOCR/doc/tricks/long_text_examples.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pipeline.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -555,7 +556,7 @@
       <workItem from="1718702861000" duration="5858000" />
       <workItem from="1718736066379" duration="760000" />
       <workItem from="1718798563033" duration="7694000" />
-      <workItem from="1718871473905" duration="2929000" />
+      <workItem from="1718871473905" duration="3441000" />
     </task>
     <servers />
   </component>
