@@ -13,5 +13,8 @@
 	4.1) run the pip install -r requirements.txt
 5) got to this directory by running " cd C:/Users/..../WhateverName/TableRecovery" 
 	5.1) "git clone https://github.com/PaddlePaddle/PaddleOCR.git"
-6) "python Pipline.py "
+6) int he Pipline.py file 
+	change the input_filename = "Path/to/your/PDFfile", 
+	shoul look like  "C:/Users/.../File.pdf"
+7) "python Pipline.py "
 	6.1 this should run the pipeline 
