@@ -1,13 +1,13 @@
-# TableRecovery
+#TableRecovery
 
-## Setup and Installation
+##Setup and Installation
 
 Follow these steps to set up and run the TableRecovery pipeline.
 
-### 1. Git Clone the Repository
+###1. Git Clone the Repository
 
 1.1. Create a folder named `WhateverName` in any location you prefer.  
 1.2. This directory will be referred to as `your_path`. It should be something like `C:/Users/..../WhateverName`.  
 1.3. Clone the repository by running:
 ```bash
-git clone https://github.com/hussseinhaiadr6/TableRecovery.git
+  git clone https://github.com/hussseinhaiadr6/TableRecovery.git
