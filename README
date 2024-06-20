@@ -6,7 +6,8 @@
 	2.1) you may need to  run pip install virtualenv
 	2.2) you need to install python 3.9 version 
 	2.3) C:/Users/HHR6/AppData/Local/Programs/Python/Python39/python.exe  : this is the path to the bin folder of the python 3.9
-	2.4) this is the where the file of the virtual environment will be created - Something like 			C:/Users/..../WhateverName/your_env_name"
+		yours will be different then mine it should look like  C:/Users/.../Python39/python.exe
+	2.4) this is the where the file of the virtual environment will be created - Something like C:/Users/..../WhateverName/your_env_name"
 3) activate the environment
 	3.1) by "cd  C:/Users/..../WhateverName/your_env_name/scripts/activate"
 4) run the "cd C:/Users/..../WhateverName/TableRecovery" - this will change the directory to where the requirements folder is located 
