@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8a8f7c1-635b-498e-8dac-585c224212f4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CombineXlsxFile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PDFtoChunks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PDFtoImages.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PaddleOCR" beforeDir="false" afterPath="$PROJECT_DIR$/PaddleOCR" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PaddleOCR/applications/PCB字符识别/PCB字符识别.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PaddleOCR/applications/PCB字符识别/gen_data/background/bg.jpg" beforeDir="false" />
@@ -468,21 +464,7 @@
       <change beforePath="$PROJECT_DIR$/PaddleOCR/doc/pr.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PaddleOCR/doc/precommit_pass.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/PaddleOCR/doc/tricks/long_text_examples.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PdfChunks/chunk_1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PdfChunks/chunk_2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PdfChunks/chunk_3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PdfChunks/chunk_4.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PdfChunks/chunk_5.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PdfChunks/chunk_6.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pipeline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TableDetector.py" beforeDir="false" afterPath="$PROJECT_DIR$/TableDetector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TableToExcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/TableToExcel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deleteEmptyxlsxFile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/getAllFileInPath.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyvenv.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yolov8n.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -573,7 +555,7 @@
       <workItem from="1718702861000" duration="5858000" />
       <workItem from="1718736066379" duration="760000" />
       <workItem from="1718798563033" duration="7694000" />
-      <workItem from="1718871473905" duration="1924000" />
+      <workItem from="1718871473905" duration="2929000" />
     </task>
     <servers />
   </component>
