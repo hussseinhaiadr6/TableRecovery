@@ -1,3 +1,82 @@
+# [Project Name]
+
+[One Paragraph Project Description]
+
+## Table of Contents
+
+- [Setup Instructions](#setup-instructions)
+- [Configure Pipeline](#configure-pipeline)
+- [Run the Pipeline](#run-the-pipeline)
+- [Contact](#contact)
+
+## Setup Instructions
+
+### Clone the Repository
+
+To get started, clone the repository to your local machine. Choose a location for your project directory (`WhateverName` in this example):
+
+```bash
+# Create your project directory (e.g., WhateverName)
+mkdir WhateverName
+cd WhateverName
+
+# Clone the repository
+git clone https://github.com/hussseinhaiadr6/TableRecovery.git
+Setup Virtual Environment
+Next, set up a virtual environment using Python 3.9. If you don't have virtualenv installed, install it via pip:
+
+bash
+Copy code
+pip install virtualenv
+Create a virtual environment named your_env_name (adjust paths as necessary):
+
+bash
+Copy code
+virtualenv -p C:/Users/HHR6/AppData/Local/Programs/Python/Python39/python.exe your_env_name
+Activate the Environment
+Activate the virtual environment. The path may vary depending on your operating system:
+
+bash
+Copy code
+# Windows
+cd your_env_name\Scripts
+activate
+
+# macOS / Linux
+source your_env_name/bin/activate
+Install Requirements
+Navigate to the project directory containing requirements.txt and install the dependencies:
+
+bash
+Copy code
+cd WhateverName/TableRecovery
+pip install -r requirements.txt
+Configure Pipeline
+Update Input File Path
+In the Pipeline.py file, update the input_filename variable to point to your PDF file:
+
+python
+Copy code
+input_filename = "C:/Users/.../File.pdf"
+Run the Pipeline
+Once configured, run the pipeline script using Python:
+
+bash
+Copy code
+cd WhateverName/TableRecovery
+python Pipeline.py
+This command will execute the pipeline and process your input file.
+
+Contact
+For any questions or issues, feel free to contact [Your Name] via [email address].
+
+sql
+Copy code
+
+You can copy and paste this entire block into your README file. This version includes all sections combined in a s
+
+
+
 1) Git clone the repo
 	1.1) create a folder "WhateverName" in whatever location you want 
 	1.2) this directory will be your path - i will call it:  your_path   should be Something like C:/Users/..../WhateverName
