@@ -1,8 +1,8 @@
-# Table Recovery Project Setup
+#Table Recovery Project Setup
 
-## Steps to Set Up and Run the Table Recovery Project
+##Steps to Set Up and Run the Table Recovery Project
 
-### 1. Git Clone the Repository
+###1. Git Clone the Repository
 1.1. Create a folder named "WhateverName" in any location you prefer.  
 1.2. This directory will be referred to as `your_path`. It should be something like `C:/Users/..../WhateverName`.  
 1.3. Run the following command to clone the repository:
