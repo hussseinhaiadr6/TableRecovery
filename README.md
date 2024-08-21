@@ -1,8 +1,9 @@
 # TableRecovery README
-This a Full pipeline to dtecet Tables in PDF and extract them to excel format 
-it uses table dtecteion 
-text edtecetion 
+This a Full pipeline to detecet Tables in PDF and extract them to excel format 
+it uses table detection 
+text detecetion 
 text recognition
+an dtavle strcuture recingintion algorithm
 ## Setup Instructions
 
 ### 1. Clone the Repository
